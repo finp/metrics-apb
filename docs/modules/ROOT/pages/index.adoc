@@ -4,7 +4,7 @@ The OpenShift Ansible Broker is used to provision Mobile Services to an OpenShif
 
 == About the Metrics Service
 
-//tag::about-metrics[]
+// tag::about-metrics[]
 
 The metrics service provides monitoring and metrics for provisioned mobile services.
 
@@ -16,7 +16,7 @@ and link:https://github.com/aerogear/mobile-docs/blob/master/services/working-wi
 to allow the discovery of service metrics and visualization of data. The metrics service makes it easy to monitor provisioned mobile services and 
 link:https://github.com/aerogear/mobile-docs/blob/master/services/manually-adding-services-to-metrics.adoc[custom services] in your project. 
 
-//end::about-metrics[]
+// end::about-metrics[]
 
 == Features
 
